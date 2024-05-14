@@ -6,11 +6,6 @@ Install this app from Github Release [[Click here to Download]](https://github.c
 
 ![ChatGPT](https://img.shields.io/github/downloads/aratheunseen/chatgpt-app/total?color=%23092&label=Total%20Downloads&logo=android)
 
-
-![chatgpt_graphics](https://github.com/aratheunseen/ChatGPT-app/assets/62181222/67d352e3-002e-4443-95fb-34edfd8874be)
-
-
-
 ## Screenshots
 
 <table>
